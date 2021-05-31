@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anbuanand-github
+- 👋 Hi, I’m Anbu Anand
 - 👀 I’m interested in UI Development with reactJs, typescript
 - 🌱 I’m currently learning nodeJs and planning for Python....
 
